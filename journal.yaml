@@ -5,18 +5,18 @@ backlog:
     worker: david
     details: david call binder
     more: tell her that hw is going to get out and want to do it with her for timming reasons
- Therapist:
-   connections:
+  Therapist:
+    connections:
      - https://www.hebpsy.net/showprofile.asp?id=18817#profile
      - https://www.alhasapa.co.il/%D7%A8%D7%A2%D7%99%D7%94_%D7%91%D7%9F_%D7%97%D7%95%D7%A8
      - https://easy.co.il/list/Psychologists?c2=5405
- Gilad:
-  questions:
-    - what david should say about himself
-    - show list of macabi therapist maybe you know someone
-    - mirpaot Hutz how to start process
- Ofra:
-   - call Macabi online therapists
+  Gilad:
+      questions:
+        - what david should say about himself
+        - show list of macabi therapist maybe you know someone
+        - mirpaot Hutz how to start process
+  Ofra:
+      - call Macabi online therapists
 
 
 
